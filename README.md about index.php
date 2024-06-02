@@ -37,7 +37,7 @@ index.php:
       </head> 
       <body> 
           <form action="" method="POST">  // action: This specifies the URL where the form data will be sent when the user submits the form.  && 
-          // method: This specifies the HTTP method (e.g., GET or POST)  to use when submitting the form.
+                                         // method: This specifies the HTTP method (e.g., GET or POST)  to use when submitting the form.
         <label for=""> Username <label>
             <input type="text" name = "username">
 
