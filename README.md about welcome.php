@@ -29,7 +29,7 @@ About the codes written in  Welcome.php
 
 
 Output:
-           ![image](https://github.com/leraner23/website-authentication-php/assets/160107123/5163da5d-158c-47a6-8761-9eed5701e1e2)
+         
 
 
         
