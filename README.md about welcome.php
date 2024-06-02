@@ -1,4 +1,4 @@
-![Screenshot 2024-06-02 134126](https://github.com/leraner23/website-authentication-php/assets/160107123/c5acbfb2-9907-428b-befe-7794b898bcfb)About the codes written in  Welcome.php
+About the codes written in  Welcome.php
       //   The code is a PHP script that checks the user's login status and displays a welcome message if the user is logged in.
 
 <?php 
