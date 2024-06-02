@@ -28,8 +28,19 @@ About the codes written in  Welcome.php
         </html>
 
 
+About the codes written in  logOutphp
+<?php 
+    session_start();
+
+    session_unset();  // This function removes all session variables from the current session.
+
+    session_destroy(); // This function destroys the current session and all its data.
+
+    header('location: index.php'); // This line redirects the user to the index.php page.
+
+?>
+
 Output:
-         
 
 
         
