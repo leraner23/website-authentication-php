@@ -53,7 +53,7 @@ index.php:
 
 
                 output:
-![Screenshot 2024-06-02 134056](https://github.com/leraner23/website-authentication-php/assets/160107123/77d2c5a7-6ee3-41cb-aebf-65850aaed401)
-
+           ![Screenshot 2024-06-02 134056](https://github.com/leraner23/website-authentication-php/assets/160107123/77d2c5a7-6ee3-41cb-aebf-65850aaed401)
+ 
                 
                 
